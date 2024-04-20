@@ -1,0 +1,7 @@
+JavaScript - bu veb-sahifalarni jonlantirish uchun ishlatiladigan dasturlash tilidir. U 1995-yilda Brendan Eich tomonidan yaratilgan va hozirda deyarli barcha asosiy brauzerlar tomonidan qo’llab-quvvatlanadi1.
+Qayerda yozish: JavaScript kodini HTML hujjatining <script> tegi ichida yoki tashqi .js faylida yozish mumkin2.
+Kirish va Chiqish: JavaScript’da ma’lumotlarni HTML elementlariga yozish uchun document.getElementById(id) metodi va innerHTML xususiyati ishlatiladi. Shuningdek, console.log() metodi orqali brauzer konsoliga ma’lumot chiqarish mumkin.
+Sintaksis va Izohlar: JavaScript’da bir qatorli izohlar // bilan boshlanadi, ko’p qatorli izohlar esa /* va */ orasida yoziladi.
+O’zgaruvchilar: JavaScript’da o’zgaruvchilarni e’lon qilish uchun var, let, yoki const kalit so’zlari ishlatiladi. O’zgaruvchilar ma’lumotlarni saqlash uchun konteynerlar sifatida xizmat qiladi.
+Aritmetik Operatorlar: JavaScript’da aritmetik amallarni bajarish uchun + (qo’shish), - (ayirish), * (ko’paytirish), / (bo’lish), % (qoldiq), ++ (inkrement), -- (dekrement) kabi operatorlar mavjud.
+O’zgaruvchilarni Almashtirish: JavaScript’da o’zgaruvchilarni almashtirish uchun vaqtinchalik o’zgaruvchi yoki ES6’dagi tuzilish tayinlash ([a, b] = [b, a]) usullari ishlatiladi
